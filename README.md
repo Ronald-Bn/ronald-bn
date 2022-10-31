@@ -4,5 +4,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
   
-<img align=""left"  alt="Ronald-Bn" src="https://github-readme-stats-ronald-bn.vercel.app/api?username=Ronald-Bn&show_icons=true&theme=radical" />
+<img align="left"  alt="Ronald-Bn" src="https://github-readme-stats-ronald-bn.vercel.app/api?username=Ronald-Bn&show_icons=true&theme=radical" />
 
