@@ -3,4 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+<img align=""left"  alt="Ronald-Bn" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 </p>
