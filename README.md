@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/ronald-babailan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronald-babailan" height="30" width="40" /></a>
 </p>
   
-<img align="left"  alt="Ronald-Bn" src="https://github-readme-stats-ronald-bn.vercel.app/api?username=Ronald-Bn&show_icons=true&theme=radical" />
+<img align="left"  alt="Ronald-Bn" src="https://github-readme-stats.vercel.app/api?username=Ronald-Bn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
-
+https://github-readme-stats.vercel.app/api?username=Ronald-Bn&theme=dark&hide_border=false&include_all_commits=false&count_private=false
 
